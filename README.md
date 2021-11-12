@@ -2,7 +2,7 @@
 ### By Terry Okioga
 
 ## Description
-A webpage where customer'c can visit, see available pizzas in the menu page, Place an order of as many fruits, checkout and enter a delivery address and get a total cost
+A webpage where customer'c can visit, see available Vegetables an fruits in the menu page, Place an order of as many fruits, checkout and enter a delivery address and get a total cost
 
 ## Technologies Used
 
